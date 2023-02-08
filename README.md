@@ -1,5 +1,5 @@
 # Zevyn11-s-ReShade-for-FFXIV
-A custom shader I created to bring some life back into FFXIV. 
+A custom preset I created to bring some life back into FFXIV. 
 
 Vanilla
 ![Screenshot 2023-02-08 111400](https://user-images.githubusercontent.com/124802033/217586767-51960760-5f5d-46d9-9f88-680cf4fbe1fc.png)
