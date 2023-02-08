@@ -1,4 +1,4 @@
-# Zevyn11-s-ReShade-for-FFXIV
+# Zevyn11-s-ReShade-Preset-for-FFXIV
 A custom preset I created to bring some life back into FFXIV. 
 
 Vanilla
